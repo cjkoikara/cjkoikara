@@ -11,6 +11,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- https://medium.com/@christina.jacob.koikara/a-comprehensive-guide-to-the-linux-init-process-e9cc85d37753?source=your_stories_page
+- https://medium.com/macoclock/remote-development-with-vscode-on-mac-in-simple-5-steps-6ae100938d67?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/what-is-xdp-the-express-data-path-in-linux-kernel-9413880a0113?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/how-to-compile-a-kernel-with-xdp-support-c245ed3460f1?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/how-to-write-and-compile-an-xdp-program-in-samples-bpf-29e69b8a2864?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/the-kernel-debugging-techniques-for-a-device-driver-developer-on-arm64-fa984e4d2a09?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/kexec-and-kdump-on-arm64-e456132d410f?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/linux-for-beginner-professional-af79cf402b44?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/linux-disk-monitoring-tools-1825d073fe62?source=your_stories_page
+- https://medium.com/@christina.jacob.koikara/useful-ethtool-commands-7f2b1bca55d1?source=your_stories_page
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
